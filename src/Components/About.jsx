@@ -30,12 +30,8 @@ const description = "Passionate about networking and connecting with fellow stud
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  <a href="https://temperature-converteer.netlify.app/" target="_blank" rel="noreferrer" key="temperature-converter" id="buotton">Temperature Converter</a>,
+  <a href="https://to-do-list-mansi.netlify.app" target="_blank" rel="noreferrer" key="to-do-list" id="buotton">To-Do list</a>
 ];
 
 /**
