@@ -29,7 +29,7 @@ const description = "Passionate about networking and connecting with fellow stud
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
-const skillsList = [
+const skillsList =[
   <a href="https://temperature-converteer.netlify.app/" target="_blank" rel="noreferrer" key="temperature-converter" id="buotton">Temperature Converter</a>,
   <a href="https://to-do-list-mansi.netlify.app" target="_blank" rel="noreferrer" key="to-do-list" id="buotton">To-Do list</a>
 ];
