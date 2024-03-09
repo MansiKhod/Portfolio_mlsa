@@ -50,7 +50,7 @@ const projectList = [
   },
   {
     title: "GitHub Repositories",
-    description: "All the repositories with the projects I have worked on",
+    description: "All the repositories with the projects I have worked on.",
     url: "https://github.com/MansiKhod?tab=repositories",
   },
 ];
