@@ -45,13 +45,12 @@ const projectList = [
   {
     title: "Microsoft Learn Student Ambassador Profile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Microsoft Learn Student Ambassador profile showing all the activities done in the period of being a campus Ambassador",
     url: "https://mvp.microsoft.com/en-US/studentambassadors/profile/405d9035-ec2f-4110-9c4b-ff402487ceac",
   },
   {
     title: "GitHub Repositories",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+    description: "All the repositories with the projects I have worked on",
     url: "https://github.com/MansiKhod?tab=repositories",
   },
 ];
